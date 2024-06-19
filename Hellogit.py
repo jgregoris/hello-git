@@ -1,4 +1,4 @@
-print ("New Hello Git")
+print ("Hello Github!")
 print ("Holaaaa, voy a probar Git")
 
 print ("New Hello with changes!")
